@@ -1,10 +1,9 @@
 <template>
     <v-container>
-        <v-chip
-            class="white--text"
-            close-icon="mdi-close-outline"
-            color="blue"
-        >+ Add Section</v-chip>
+        <v-btn
+            color="primary"
+            rounded
+        >+ Add Section</v-btn>
     </v-container>
 </template>
 
